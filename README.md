@@ -48,6 +48,7 @@ candidate-scoring-service/
 ├── frontend/         # веб-интерфейс
 ├── config.py         # настройки приложения
 ├── main.py           # точка входа FastAPI
+├── hybrid_ranker.ipynb # jupyter notebook с экспериментами моделей ранжирования
 └── requirements.txt  # зависимости
 
 
